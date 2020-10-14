@@ -1,0 +1,49 @@
+﻿https://accounts.cloud.com/identity/assets/app.js
+
+https://accounts.cloud.com/identity/assets/common.js
+
+
+
+https://accounts.cloud.com/identity/assets/common.js
+
+https://onboarding.cloud.com/scripts/manifest.js
+
+https://onboarding.cloud.com/scripts/bower_components.23a37657910feb63.js
+
+https://onboarding.cloud.com/scripts/app.9d1a1f08a6540933.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/scripts/manifest.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/scripts/google-config.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/navbar/scripts/cwc-navbar.min.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/client/runtime.24bc88160892a13f3bff.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/client/es2015-polyfills.d026eda7f274410441bb.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/client/polyfills.fe6d0821377946fc8c2e.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/client/main.c51b8de744ad438bff62.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/scripts/manifest.js
+
+https://cdn-eastus-release-b.citrixworkspacesapi.net/scripts/google-config.js
+
+
+
+
+
+
+1. HTTP/1.1 200 OK
+Connection: close
+Date: Wed, 14 Oct 2020 10:05:13 GMT
+Content-Type: application/json; charset=utf-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Content-Length: 187
+
+{"deviceDisplayName":"siddiquizeeshan095@gmail.com","isSuccess":true,"status":"Success","message":null,"credentialId":"64JZVGCMUMTDVQDF","deviceId":"b73276a3-e56d-4b0a-9345-7d3dc31c59ce"}
+
+
